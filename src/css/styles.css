@@ -18,3 +18,20 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.list{
+  list-style: none;
+}
+
+.text{
+  margin-left: 10px;
+}
+
+.list__info{
+  display: flex;
+  align-items: center;
+}
+
+.name{
+  font-size: 24px;
+}
